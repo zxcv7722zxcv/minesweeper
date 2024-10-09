@@ -44,7 +44,7 @@ int main()
             {
                 if (mineX == i && mineY == j)
                 {
-                    cout << " * ";
+                    cout << " *";
                 }
                 else
                     cout << " * ";
